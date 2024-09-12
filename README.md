@@ -1,4 +1,7 @@
 # RubberEffect_UI
+<p>Inspired by https://juejin.cn/post/7091583633416257572
+<br>灵感来自于https://juejin.cn/post/7091583633416257572</p>
+
  <p>Implementing image erase function like using a rubber by using image and raw image texture in UI
  <br>通过UI中的image 和 raw image的纹理实现图片擦除功能，就像用橡皮擦掉图片一样</p>
 
